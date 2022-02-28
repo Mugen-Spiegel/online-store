@@ -2,7 +2,7 @@
 
 This application is built for skill assesment purpose only
 
-###Local set-up
+### Local set-up
 
 run in terminal 
 ```
@@ -14,7 +14,7 @@ bin/rails generate solidus:install          # When you run the solidus:install g
 ```
 
 
-###Test Transaction for payment using BOGUS GATEWAY:
+### Test Transaction for payment using BOGUS GATEWAY:
 
 
 Name on card: `Enter Bogus Gateway`
