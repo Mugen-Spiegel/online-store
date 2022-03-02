@@ -9,8 +9,8 @@ run in terminal
 
 Bundle install                              # install dependency
 rails db:create                             # create schema
-bin/rails generate solidus:install          # When you run the solidus:install generator without arguments, it runs migrations, adds sample data, and seeds your database:
-
+rails generate solidus:install          # When you run the solidus:install generator without arguments, it runs migrations, adds sample data, and seeds your database:
+rails g solidus_stripe:install
 ```
 
 
