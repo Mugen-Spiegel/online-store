@@ -32,7 +32,7 @@ Expiry Date: `Enter any date in the future.`
 
 https://help.shopify.com/en/manual/checkout-settings/test-orders
 
-###Test Transaction for payment using STRIPE 
+### Test Transaction for payment using STRIPE 
 
 
 Name on card: `Any random string`
